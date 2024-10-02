@@ -1,0 +1,20 @@
+2024-04-18 01:04:47,784 - Log4J logging -INFO - Chrome Browser instance opened
+2024-04-18 01:04:47,968 - Log4J logging -INFO - Window maximized
+2024-04-18 01:04:47,995 - Log4J logging -INFO - Implicit wait given
+2024-04-18 01:05:18,141 - Log4J logging -INFO - Failure - Web element not found
+2024-04-18 01:08:25,036 - Log4J logging -INFO - Chrome Browser instance opened
+2024-04-18 01:08:25,212 - Log4J logging -INFO - Window maximized
+2024-04-18 01:08:25,235 - Log4J logging -INFO - Implicit wait given
+2024-04-18 01:08:25,415 - Log4J logging -INFO - Web element found
+2024-04-18 01:12:29,775 - Log4J logging -INFO - Chrome Browser instance opened
+2024-04-18 01:12:29,936 - Log4J logging -INFO - Window maximized
+2024-04-18 01:12:29,964 - Log4J logging -INFO - Implicit wait given
+2024-04-18 01:12:30,146 - Log4J logging -INFO - Web element found
+2024-04-18 01:13:01,761 - Log4J logging -INFO - Chrome Browser instance opened
+2024-04-18 01:13:01,915 - Log4J logging -INFO - Window maximized
+2024-04-18 01:13:01,937 - Log4J logging -INFO - Implicit wait given
+2024-04-18 01:13:02,173 - Log4J logging -INFO - Web element found & clicked
+2024-04-18 01:13:29,543 - Log4J logging -INFO - Chrome Browser instance opened
+2024-04-18 01:13:29,693 - Log4J logging -INFO - Window maximized
+2024-04-18 01:13:29,708 - Log4J logging -INFO - Implicit wait given
+2024-04-18 01:13:29,862 - Log4J logging -INFO - Web element found
